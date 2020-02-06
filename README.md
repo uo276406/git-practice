@@ -1,10 +1,11 @@
 # git-practice
 
-Ejercicio:
-
-En la mayoría de nuestros proyectos se trabaja con 3 entornos, Producción que es el que se publica a todo el mundo, Pre-producción que es donde el cliente valida y Desarrollo que se refiere al entorno en nuestro equipo; por tanto desarrollo no es único; hay uno por cada miembro del equipo que desarrolla.
-
-Revisa la guía de git de TCK para ver y entender el flujo de trabajo.
+En la mayoría de nuestros proyectos se trabaja con 3 entornos:
+ - Producción que es el que se publica a todo el mundo, 
+ - Pre-producción que es donde el cliente valida y 
+ - Desarrollo que se refiere al entorno en nuestro equipo; por tanto desarrollo no es único; hay uno por cada miembro del equipo que desarrolla.
+ 
+El ejercicio consiste en realizar las siguientes tareas; recuerda que debes leer la guía de git de TCK para ver y entender el flujo de trabajo.
 
 ## 1
 Crear las rama de **staging** para el entorno de pre y **integration** para controlar las puestas en producción.
