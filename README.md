@@ -8,7 +8,7 @@ En la mayoría de nuestros proyectos se trabaja con 3 entornos:
 El ejercicio consiste en realizar las siguientes tareas; recuerda que debes leer la guía de git de TCK para ver y entender el flujo de trabajo.
 
 ## 1
-Crear las rama de **staging** para el entorno de pre y **integration** para controlar las puestas en producción.
+Crear las rama de **staging** para el entorno de pre e **integration** para controlar las puestas en producción.
 
 ## 2 corregir ortografía
 
