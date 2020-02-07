@@ -42,9 +42,13 @@ Mergear en staging la tarea 2 para que la podamos revisar
 
 Mergear todo en staging para revisar las tareas.
 
+## 8 Mover la página 3
+
+Cambia el nombre de la página 3 por final.txt y crea una nueva página3.txt que se titule "Nueva página 3"
+
 ## 8 Cerrar PR'S
 
-Cerrar todas las PR's
+Mergear todas las PR's en el siguiente orden de aprobación: Tarea 8, Tarea 4, Tarea 3, Tarea 2, Tarea 5
 
 Si hay conflictos se deben resolver; el proceso es mergear la rama de integración en la rama de la PR, corregir el conflicto y hacer push.
 
